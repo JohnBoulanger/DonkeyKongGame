@@ -27,7 +27,15 @@ This is a remake of the classic arcade game Donkey Kong, implemented in C. The g
 * Use precise timing to avoid all fireballs and reach the goal!
 
 ## Screenshots
-![Donkey Kong](gameImages/ladder.png)
-![Donkey Kong](gameImages/neartop.png)
-![Donkey Kong](gameImages/finish.png)
+| Using Ladders | 
+|:-------------:|
+|![Donkey Kong](gameImages/ladder.png)|
+
+| Near the Top | 
+|:-------------:|
+|![Donkey Kong](gameImages/neartop.png)|
+
+| Victory Animation | 
+|:-------------:|
+|![Donkey Kong](gameImages/finish.png)|
 
